@@ -64,6 +64,8 @@
     display: block;
     width: 100%;
     height: 270px;
+    overflow: hidden;
+    
   }
   
   .overlay {
@@ -81,6 +83,9 @@
   
   .filterDiv:hover .overlay {
     opacity: 1;
+  }
+  .filterDiv:hover .imgae {
+    transform: scale(1.4);
   }
   
   .text {
