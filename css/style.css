@@ -22,6 +22,21 @@
 .navbar {
     background: #fff;
 }
+#nav_m {
+    display: none;
+}
+.nav_m {
+    margin: 0;
+}
+
+@media (max-width: 767px) {
+    #nav_m {
+        display: block;
+    }
+    #nav_w {
+        display: none;
+    }
+}
 
 
 /* ---------- profile.html ---------- */
