@@ -39,8 +39,10 @@
   /* Style the buttons */
   .category {
     color: #222;
-    padding: 0px 20px;
+    width: 500px;
     cursor: pointer;
+    margin: 0 auto;
+    text-align: center;
   }
   
   .category:hover {
