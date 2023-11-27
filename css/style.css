@@ -84,7 +84,7 @@
   .filterDiv:hover .overlay {
     opacity: 1;
   }
-  .filterDiv:hover .imgae {
+  .filterDiv:hover .image {
     transform: scale(1.4);
   }
   
