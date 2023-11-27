@@ -52,6 +52,8 @@
   
   .btn:hover {
     color: #999;
+    outline: none;
+    border: none;
   }
   
   .btn.active {
