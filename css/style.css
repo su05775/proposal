@@ -85,7 +85,7 @@
     opacity: 1;
   }
   .filterDiv:hover .imgae {
-    transform: scale(1.4);
+    transform: scale(1.1);
   }
   
   .text {
