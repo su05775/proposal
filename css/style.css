@@ -95,3 +95,7 @@
     text-align: center;
     opacity: 1;
   }
+
+  .col-md-3 {
+    max-width: 24%;
+  }
