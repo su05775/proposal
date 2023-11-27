@@ -26,12 +26,9 @@
 
 /* ---------- profile.html ---------- */
 .filterDiv {
-    background-color: #2196F3;
-    color: #ffffff;
-    text-align: center;
     display: none;
-    height: 200px;
-    width: auto;
+    height: 270px;
+    width: 270px;
   }
   
   .show {
