@@ -27,15 +27,12 @@
     color: #ffffff;
     text-align: center;
     display: none;
+    height: 200px;
+    width: auto;
   }
   
   .show {
     display: block;
-  }
-  
-  .container {
-    margin-top: 20px;
-    overflow: hidden;
   }
   
   /* Style the buttons */
