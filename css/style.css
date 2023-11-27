@@ -29,7 +29,6 @@
     display: none;
     position: relative;
     margin: 5px;
-    height: 270px !important;
   }
   
   .show {
@@ -64,7 +63,7 @@
   .image {
     display: block;
     width: 100%;
-    height: auto;
+    height: 270px;
   }
   
   .overlay {
