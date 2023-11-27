@@ -28,8 +28,7 @@
 .filterDiv {
     display: none;
     position: relative;
-    width: 23%;
-    margin: 15px;
+    margin: 5px;
   }
   
   .show {
