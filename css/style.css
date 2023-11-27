@@ -135,4 +135,7 @@
     .col-md-3 {
         max-width: 47%;
     }
+    footer {
+        padding: 4% 0;
+    }
 }
