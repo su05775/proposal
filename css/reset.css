@@ -72,10 +72,11 @@ margin: 0;
 }
 
 footer {
-    background: #000;
+    background: #24272a;
     padding: 2% 0;
+    text-align: center;
 }
 footer p {
-    color: #ccc;
+    color: #d2d2d2;
     font-size: 15px;
 }
