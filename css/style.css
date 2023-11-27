@@ -37,12 +37,16 @@
   }
   
   /* Style the buttons */
-  .category {
-    color: #222;
-    width: 500px;
-    cursor: pointer;
+  .category_box {
     margin: 0 auto;
     text-align: center;
+    width: 500px;
+  }
+  .category {
+    color: #222;
+    
+    cursor: pointer;
+    
   }
   
   .category:hover {
