@@ -86,6 +86,8 @@
   }
   .filterDiv:hover .image {
     transform: scale(1.4);
+    overflow: hidden;
+    transition: all 0.2s linear;
   }
   
   .text {
