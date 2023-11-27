@@ -40,6 +40,9 @@
 
 
 /* ---------- profile.html ---------- */
+#profile {
+    padding: 10% 0;
+}
 .filterDiv {
     display: none;
     position: relative;
