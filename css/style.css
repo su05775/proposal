@@ -27,6 +27,7 @@
 /* ---------- profile.html ---------- */
 .filterDiv {
     display: none;
+    position: relative;
   }
   
   .show {
@@ -57,9 +58,6 @@
 }
 
 /* img overlay */
-.profile {
-    position: relative;
-  }
   
   .image {
     display: block;
