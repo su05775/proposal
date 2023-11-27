@@ -29,6 +29,7 @@
     display: none;
     position: relative;
     margin: 5px;
+    height: 270px !important;
   }
   
   .show {
