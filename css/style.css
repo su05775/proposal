@@ -37,27 +37,27 @@
   }
   
   /* Style the buttons */
-  .btn {
+  .category {
     color: #222;
     padding: 0px 16px;
     cursor: pointer;
   }
   
-  .btn:hover {
+  .category:hover {
     color: #999;
     outline: none;
     border: none;
   }
   
-  .btn.active {
+  .category.active {
     width: auto;
     border-bottom: 1px solid #ccc;
     color: #999;
   }
 
-  .btn.focus, .btn:focus {
+  .category.focus, .btn:focus {
     box-shadow: none !important;
-}
+  }   
 
 /* img overlay */
   
