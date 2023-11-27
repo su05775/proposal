@@ -94,10 +94,10 @@
     transform: translate(-50%, -50%);
     text-align: center;
     opacity: 1;
+    width: 100%;
   }
 
   .text span{
-    color: white;
     font-size: 15px;
   }
 
