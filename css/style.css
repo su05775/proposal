@@ -37,16 +37,10 @@
   }
   
   /* Style the buttons */
-  .category_box {
-    margin: 0 auto;
-    text-align: center;
-    width: 500px;
-  }
   .category {
     color: #222;
-    
+    padding: 0px 16px;
     cursor: pointer;
-    
   }
   
   .category:hover {
@@ -63,7 +57,7 @@
 
   .category.focus, .btn:focus {
     box-shadow: none !important;
-  }   
+    }   
 
 /* img overlay */
   
