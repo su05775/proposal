@@ -29,6 +29,7 @@
     display: none;
     position: relative;
     margin: 5px;
+    overflow: hidden;
   }
   
   .show {
@@ -64,9 +65,7 @@
     display: block;
     width: 270px;
     height: 270px;
-    overflow: hidden !important;
     transition: all 0.2s linear;
-    margin: 0 auto;
   }
   
   .overlay {
