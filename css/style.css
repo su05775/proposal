@@ -61,3 +61,7 @@
     border-bottom: 1px solid #ccc;
     color: #999;
   }
+
+  .btn.focus, .btn:focus {
+    box-shadow: none !important;
+}
