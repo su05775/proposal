@@ -66,6 +66,7 @@
     height: 270px;
     overflow: hidden !important;
     transition: all 0.2s linear;
+    margin: 0 auto;
   }
   
   .overlay {
