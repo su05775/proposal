@@ -62,7 +62,7 @@
   
   .image {
     display: block;
-    width: 100%;
+    width: 270px;
     height: 270px;
     overflow: hidden !important;
     transition: all 0.2s linear;
@@ -85,8 +85,7 @@
     opacity: 1;
   }
   .filterDiv:hover .image {
-    transform: scale(1.2);
-    
+    transform: scale(1.1);
   }
   
   .text {
