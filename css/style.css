@@ -64,8 +64,8 @@
     display: block;
     width: 100%;
     height: 270px;
-    overflow: hidden;
-    
+    overflow: hidden !important;
+    transition: all 0.2s linear;
   }
   
   .overlay {
@@ -86,8 +86,7 @@
   }
   .filterDiv:hover .image {
     transform: scale(1.2);
-    overflow: hidden;
-    transition: all 0.2s linear;
+    
   }
   
   .text {
