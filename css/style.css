@@ -129,6 +129,10 @@
         max-width: 48%;
         height: auto;
         text-align: center;
-        /* margin: 0 auto; */
+    }
+}
+@media (max-width: 500px) {
+    .col-md-3 {
+        max-width: 47%;
     }
 }
