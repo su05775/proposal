@@ -85,7 +85,7 @@
     opacity: 1;
   }
   .filterDiv:hover .image {
-    transform: scale(1.4);
+    transform: scale(1.2);
     overflow: hidden;
     transition: all 0.2s linear;
   }
